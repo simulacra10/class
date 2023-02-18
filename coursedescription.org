@@ -1,0 +1,34 @@
+
+* Course Description
+** Windows
+This course will lay a foundation on understanding Microsoft Windows Operating System. The lecture will include some computer history, an overview of the file system, navigating Windows locally, using Windows to access the Internet, basics of networking with an emphasis on WiFi.
+** iOS
+This course will be about navigating Apple's iOS for iPhone & iPad. 
+* Outcomes
+** Windows
+The participants will become familiar with how MS Windows file system is laid out. 
+Where their "user profile" is located.
+How to connect to a wireless network.
+How to access the Internet.
+Safety and security on the Internet
+How to copy and paste.
+What common Internet nomenclature like HTTP, HTTPS, TCP/IP, and others mean.
+And more...
+
+** iOS
+The participant will learn about the different authentication methods to secure their phone. 
+How to receive emails on their phone.
+How to send text messages and the difference between sending a message to other iOS users and Android users.
+How to use Facetime to video chat with other iOS users.
+An overview of the Settings menu.
+How to add or remove items from the Home Screen.
+How to use Do Not Disturb to silence calls.
+How to activate silent/vibrate mode.
+An introduction to The Appstore.
+An antineutron to iCloud.
+How to use Siri.
+How to use Apple Maps.
+How to change your wallpaper. 
+How to connect and disconnect to WiFi.
+
+  
